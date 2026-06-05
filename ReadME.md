@@ -5,3 +5,6 @@ Usually this is done through C or C++ so I am going to learn C. So exciting!!
 I see so many Youtubers using C and C++ to make amamzing things so I thought I would learn it too!!  
 
 This will be facilitated by the book  "Modern C" by Jens Gustedt. 
+
+## HOW IT'S MADE 
+
