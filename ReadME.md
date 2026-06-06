@@ -29,32 +29,13 @@ I made two new files called `scratch_1.c` and `scratch_2.c` that allowed me to p
 
 
 ## PROJECT STRUCTURE 
-|[dataset](https://github.com/leta199/Fraud-Detection/tree/main/dataset)  
-|  ├──[test_data](https://github.com/leta199/Fraud-Detection/blob/main/dataset/test_data.csv)  
-│  ├──[train_data](https://github.com/leta199/Fraud-Detection/blob/main/dataset/train_data.csv)   
-│  └──[whole_dataset](https://github.com/leta199/Fraud-Detection/blob/main/dataset/whole_dataset.csv)  
+|[Level_0](https://github.com/leta199/Learning-C/tree/main/Level_0)  
+|  ├──[getting_started.c](https://github.com/leta199/Learning-C/blob/main/Level_0/getting_started.c)  
+│  ├──[main.c](https://github.com/leta199/Learning-C/blob/main/Level_0/main.c)   
 │    
-|├──[modelling](https://github.com/leta199/Fraud-Detection/tree/main/modelling)  
-│  ├──[fraud_detection](https://github.com/leta199/Fraud-Detection/blob/main/modelling/fraud_detection.ipynb)      
-│  └──[train_test_split](https://github.com/leta199/Fraud-Detection/blob/main/modelling/train_test_split.ipynb)      
+|├──[Level_1](https://github.com/leta199/Learning-C/tree/main/Level_1)  
+│  ├──[Amateur_exercises](https://github.com/leta199/Learning-C/tree/main/Level_1/Amateur_exercises)      
+│  └──[Scratch](https://github.com/leta199/Learning-C/tree/main/Level_1/Scratch)      
 │    
-|├──[visualisations](https://github.com/leta199/Fraud-Detection/tree/main/visualisations)    
-│  ├──[account_age_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/account_age_fraud.png)   
-│  ├──[amounts_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/amounts_fraud.png)    
-│  ├──[amount_density_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/amt_fraud_density.png)    
-│  ├──[amount_qqplot](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/amt_fraud_qq.png)    
-│  ├──[average_amount_density_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/avg_amt_fraud_denisty.png)    
-│  ├──[average_amount_qqplot](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/avg_amt_fraud_qq.png)    
-│  ├──[categorical_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/categorical_fraud.png)    
-│  ├──[correlation_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/correlation_fraud.png)    
-│  ├──[final_pipeline_metrics](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/final_pipeline.png)    
-│  ├──[international_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/international_fraud.png)    
-│  ├──[ip_risk_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/ip_risk_fraud.png)    
-│  ├──[location_fraud](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/location_fraud.png)    
-│  └──[r-visualisations](https://github.com/leta199/Fraud-Detection/blob/main/visualisations/r-visualisations.R)  
-|    
-|├──[License](https://github.com/leta199/Linear-Regression/blob/main/LICENSE)  
-|├──[R.history](https://github.com/leta199/Fraud-Detection/blob/main/.Rhistory)   
-|├──[requirements](https://github.com/leta199/Fraud-Detection/blob/main/requirements.txt)  
-|└──[README](https://github.com/leta199/Fraud-Detection/blob/main/README.md)
+|└──[README](https://github.com/leta199/Learning-C/blob/main/ReadME.md)
 
