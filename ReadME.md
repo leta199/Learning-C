@@ -31,7 +31,7 @@ I made two new files called `scratch_1.c` and `scratch_2.c` that allowed me to p
 ## PROJECT STRUCTURE 
 |[Level_0](https://github.com/leta199/Learning-C/tree/main/Level_0)  
 |  ├──[getting_started.c](https://github.com/leta199/Learning-C/blob/main/Level_0/getting_started.c)  
-│  ├──[main.c](https://github.com/leta199/Learning-C/blob/main/Level_0/main.c)   
+│  └──[main.c](https://github.com/leta199/Learning-C/blob/main/Level_0/main.c)   
 │    
 |├──[Level_1](https://github.com/leta199/Learning-C/tree/main/Level_1)  
 │  ├──[Amateur_exercises](https://github.com/leta199/Learning-C/tree/main/Level_1/Amateur_exercises)      
