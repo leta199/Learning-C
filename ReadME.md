@@ -19,4 +19,13 @@ This familiarises me with key terminology needed to navigate C such as such as k
 
 In this level we created the short C programs `main.c` and `getting_started.c` to explore things like block scope, separators, initialisation and much more.  
 
-### LEVEL 1 - ACQUAINTANCE 
+### LEVEL 1 - ACQUAINTANCE   
+
+This level begins with pivotal control statements namely: for, do, while, switch, and if. 
+
+I made two new files called `scratch_1.c` and `scratch_2.c` that allowed me to play with conditional exections were I learned:
+    - layout of block and scope structure in C 
+    - how to use variables for True and False conditional executions 
+
+
+## PROJECT STRUCTURE 
