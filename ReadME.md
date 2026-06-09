@@ -37,7 +37,7 @@ I made two new files called `scratch_1.c` and `scratch_2.c` that allowed me to p
 │  ├──[Amateur_exercises](https://github.com/leta199/Learning-C/tree/main/Level_1/Amateur_exercises)      
 │  └──[Scratch](https://github.com/leta199/Learning-C/tree/main/Level_1/Scratch)     
 │       ├──[scratch_1.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_1.c)       
-│       └──[scratch_2.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_2.c) 
+│       └──[scratch_2.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_2.c)   
 │      
 |├──[.gitignore](https://github.com/leta199/Learning-C/blob/main/.gitignore)  
 |└──[README](https://github.com/leta199/Learning-C/blob/main/ReadME.md)
