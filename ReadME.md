@@ -8,7 +8,7 @@ This will be facilitated by the book  "Modern C" by Jens Gustedt.
 
 ## HOW IT'S MADE 
 
-### LEVEL0 - ENCOUNTER   
+### LEVEL 0 - ENCOUNTER   
 This familiarises me with key terminology needed to navigate C such as such as key words, functions, and overal formulation of C programs. This section was split up into the parts:
 1) Useful terms
 2) Structure of programs
