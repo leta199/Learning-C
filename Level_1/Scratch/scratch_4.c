@@ -11,8 +11,8 @@ double x = 0.5;
 int counter = 0;
 
 while ( fabs(1.0 - a*x) >= F) {
-    printf("The value of x is: %zu, on iteration: %g.\n", x);
-x *= (2.0 - a*x);
+    printf("The value of x is: %f, on iteration: %d.\n", x, counter);
+x *= (2.0 - a*x); 
 ++ counter;
 }}
 
