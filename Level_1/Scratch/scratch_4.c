@@ -13,7 +13,7 @@ double x = 0.5; // random guess to start
 int counter = 0; // track number of iterations 
 
 while ( fabs(1.0 - a*x) >= eps) { // tracks whether or not 1- a*x is greater than or equal to eps
-x *= (2.0 - a*x); 
+x *= (2.0 - a*x); // Newton Raphson iteration method x*(2 - a*x)
 printf("The value of 1/a is: %f, on iteration: %d.\n", x, counter);
 ++ counter; // iterate on our counter 
 }
