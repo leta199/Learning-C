@@ -2,8 +2,8 @@
 
 #include <tgmath.h>
 
-int main() {
-double  F = 1E-9;
+int main(void) {
+double  F = 1E-9;// level of precision 
 double const a = 34.0;
 double x = 0.5;
 
