@@ -12,9 +12,17 @@ int A[5] = {
     [4] = 5,
 
 };
-
 // Spliting logic
 size_t n = sizeof(A)/sizeof(int);
-printf("Length of array is %s.", n);
+printf("Length of array is %zu.", n);
+
+double split = n/2;
+int B[n/2];
+
+for ( size_t i = 0; i <=n/2; ++i){
+     B[] = {
+
+    };
+}; 
 
 }
