@@ -19,10 +19,8 @@ printf("Length of array is %zu.", n);
 double split = n/2;
 int B[n/2];
 
-for ( size_t i = 0; i <=n/2; ++i){
-     B[] = {
-
+for ( size_t i = 0; i <= n/2; ++i){
+     B[i] = {
+        [i] = A[i],
     };
-}; 
-
-}
+};}

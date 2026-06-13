@@ -19,6 +19,7 @@ This familiarises me with key terminology needed to navigate C such as such as k
 
 In this level we created the short C programs `main.c` and `getting_started.c` to explore things like block scope, separators, initialisation and much more.  
 
+
 ### LEVEL 1 - ACQUAINTANCE   
 
 This level begins with pivotal control statements namely: for, do, while, switch, and if. 
@@ -28,6 +29,8 @@ I made two new files called `scratch_1.c` and `scratch_2.c` that allowed me to p
     - how to use variables for True and False conditional executions 
 
 
+**CHALLENGE 1**
+Was a challenge to create 
 ## PROJECT STRUCTURE 
 |[Level_0](https://github.com/leta199/Learning-C/tree/main/Level_0)  
 |  ├──[getting_started.c](https://github.com/leta199/Learning-C/blob/main/Level_0/getting_started.c)  
