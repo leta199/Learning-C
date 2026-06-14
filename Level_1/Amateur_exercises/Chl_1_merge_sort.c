@@ -2,6 +2,8 @@
 // Implement merge sort (with tests)
 
 #include <stdio.h>
+#include <stdlib.h>
+
 int main(void){
 // Declare and define "A" array 
 int A[5] = {
@@ -23,4 +25,6 @@ for ( size_t i = 0; i <= n/2; ++i){
      B[i] = {
         [i] = A[i],
     };
-};}
+}
+return EXIT_SUCCESS;
+}
