@@ -13,7 +13,7 @@ int A[5] = {
     [3] = 10,
     [4] = 5,
 
-};
+}; 
 // Spliting logic
 size_t n = sizeof(A)/sizeof(int);
 printf("Length of array is %zu.", n);
