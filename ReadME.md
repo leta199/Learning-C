@@ -38,11 +38,12 @@ Was a challenge to create
 │    
 |├──[Level_1](https://github.com/leta199/Learning-C/tree/main/Level_1)  
 │  ├──[Amateur_exercises](https://github.com/leta199/Learning-C/tree/main/Level_1/Amateur_exercises)      
-│       ├──[Chl_1_merge_sort.c]()       
-│       └──[scratch_2.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_2.c)     
+│       ├──[Chl_1_merge_sort.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Amateur_exercises/Chl_1_merge_sort.c)           
 │  └──[Scratch](https://github.com/leta199/Learning-C/tree/main/Level_1/Scratch)     
 │       ├──[scratch_1.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_1.c)       
-│       └──[scratch_2.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_2.c)   
+│       └──[scratch_2.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_2.c)     
+│       ├──[scratch_3.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_3.c)       
+│       └──[scratch_4.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_4.c)   
 │      
 |├──[.gitignore](https://github.com/leta199/Learning-C/blob/main/.gitignore)  
 |└──[README](https://github.com/leta199/Learning-C/blob/main/ReadME.md)
