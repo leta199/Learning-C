@@ -8,7 +8,7 @@ constantexpr; double  eps1p24 = 1.0 + 0x1P-24;
 
 int main( int argc, char* argv[argc+1]){
  for ( int i = 1; i < argc; ++i){
-    double const a = strtod(argv[i], nullptr);
+    double const a = strtod(argv[i], NULL);
     double x = 1.0;
     for (;;){
         double prod = a*x;
