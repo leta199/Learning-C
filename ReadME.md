@@ -24,13 +24,17 @@ In this level we created the short C programs `main.c` and `getting_started.c` t
 
 This level begins with pivotal control statements namely: for, do, while, switch, and if. 
 
-I made two new files called `scratch_1.c` and `scratch_2.c` that allowed me to play with conditional exections were I learned:
+I made two new files called `scratch_1.c` to `scratch_6.c` [put number as the grow] that allowed me to play with conditional exections were I learned:
     - layout of block and scope structure in C 
     - how to use variables for True and False conditional executions 
+    - 5 basic C statements
+    - computations in C
 
 
 **CHALLENGE 1**
 Was a challenge to create 
+
+
 ## PROJECT STRUCTURE 
 |[Level_0](https://github.com/leta199/Learning-C/tree/main/Level_0)  
 |  ├──[getting_started.c](https://github.com/leta199/Learning-C/blob/main/Level_0/getting_started.c)  
