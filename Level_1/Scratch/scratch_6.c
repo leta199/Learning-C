@@ -1,10 +1,10 @@
 // Arithemtic in C
 #include <stdio.h>
-
+#include <stdlib.h>
 int main(int argc, char* argv[]){
-    size_t a = argv[1][0];
-    size_t b = argv[2][0];
+    size_t a = 3;
+    size_t b = 6;
     size_t c = (a + b)*a;
-    printf("Your answer is: c",c);
-
+    printf("A is %zu \tB is %zu. \nYour answer is: %zu.\n",a,b,c);
+    return EXIT_SUCCESS;
 }
