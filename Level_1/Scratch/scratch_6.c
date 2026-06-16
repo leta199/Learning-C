@@ -1,6 +1,7 @@
 // Arithemtic in C
 #include <stdio.h>
 #include <stdlib.h>
+
 int main( void){
     size_t a = 3;
     size_t b = 6;
