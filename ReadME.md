@@ -19,12 +19,12 @@ This will be facilitated by the book "Beej’s Guide to C Programming" by Brian 
 │       ├──[]()           
 │  └──[]()     
 │       ├──[]()       
-│       └──[scratch_2.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_2.c)     
-│       ├──[scratch_3.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_3.c)       
-│       └──[scratch_4.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_4.c)     
-│       ├──[scratch_5.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_5.c)       
-│       └──[scratch_6.c](https://github.com/leta199/Learning-C/blob/main/Level_1/Scratch/scratch_6.c)  
+│       └──[]()     
+│       ├──[]()       
+│       └──[]()     
+│       ├──[]()       
+│       └──[]()  
 │      
-|├──[.gitignore](https://github.com/leta199/Learning-C/blob/main/.gitignore)  
+|├──[]()  
 |└──[README](https://github.com/leta199/Learning-C/blob/main/ReadME.md)
 
