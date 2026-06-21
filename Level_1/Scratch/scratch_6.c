@@ -1,7 +1,8 @@
 // Calculate BMI in C!
 #include <stdio.h>
 
-int main(void){
+int main(void)
+{
 // declare and define variables    
 float weight, height;
 
