@@ -1,4 +1,4 @@
-// Arithemtic in C
+// Calculate BMI in C!
 #include <stdio.h>
 
 int main( void){
@@ -11,4 +11,5 @@ float weight, height;
     scanf("%f", & height);
 // final calucation and display
     printf("Your BMI is: %.2f\n", weight/(height*height));
+
 }
