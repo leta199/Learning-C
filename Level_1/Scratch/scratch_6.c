@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 int main( void){
+    
 float weight, height;
+
     printf("Enter you weight (in kg): ");
     scanf("%f", & weight);
     printf("Enter you height (in m): ");
