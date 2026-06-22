@@ -14,10 +14,7 @@ This will be facilitated by the book "C programming: A modern approach" by K. N.
 |  ├──[Projects](https://github.com/leta199/Learning-C/tree/main/Main_f/Projects)  
 │  └──[Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch)   
 │    
-|├──[Start](https://github.com/leta199/Learning-C/tree/main/Start)  
-│  ├──[]()      
-│       ├──[]()           
-│  └──[]()     
+|├──[Start](https://github.com/leta199/Learning-C/tree/main/Start)  s  
 │       ├──[]()       
 │       └──[]()     
 │       ├──[]()       
