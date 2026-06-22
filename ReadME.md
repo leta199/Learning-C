@@ -14,14 +14,10 @@ This will be facilitated by the book "C programming: A modern approach" by K. N.
 |  ├──[Projects](https://github.com/leta199/Learning-C/tree/main/Main_f/Projects)  
 │  └──[Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch)   
 │    
-|├──[Start](https://github.com/leta199/Learning-C/tree/main/Start)  s  
-│       ├──[]()       
-│       └──[]()     
-│       ├──[]()       
-│       └──[]()     
-│       ├──[]()       
-│       └──[]()  
+|├──[Start](https://github.com/leta199/Learning-C/tree/main/Start)    
+│       ├──[getting_started](https://github.com/leta199/Learning-C/blob/main/Start/getting_started.c)       
+│       └──[main](https://github.com/leta199/Learning-C/blob/main/Start/main.c)      
 │      
-|├──[]()  
+|├──[.gitignore](https://github.com/leta199/Learning-C/blob/main/.gitignore)  
 |└──[README](https://github.com/leta199/Learning-C/blob/main/ReadME.md)
 
