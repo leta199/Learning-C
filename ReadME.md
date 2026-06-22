@@ -10,7 +10,7 @@ This will be facilitated by the book "C programming: A modern approach" by K. N.
 
 ## PROJECT STRUCTURE 
 |[Learning-C](https://github.com/leta199/Learning-C)  
-|[Main_f]()  
+|[Main_f](https://github.com/leta199/Learning-C/tree/main/Main_f)  
 |  ├──[Projects](https://github.com/leta199/Learning-C/tree/main/Main_f/Projects)  
 │  └──[Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch)   
 │    
