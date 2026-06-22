@@ -10,11 +10,11 @@ This will be facilitated by the book "C programming: A modern approach" by K. N.
 
 ## PROJECT STRUCTURE 
 |[]()  
-|[]()  
+|[Main_f]()  
 |  ├──[]()  
 │  └──[]()   
 │    
-|├──[]()  
+|├──[Start]()  
 │  ├──[]()      
 │       ├──[]()           
 │  └──[]()     
