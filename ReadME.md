@@ -9,7 +9,7 @@ This will be facilitated by the book "C programming: A modern approach" by K. N.
 ## HOW IT'S MADE 
 
 ## PROJECT STRUCTURE 
-|[Learning-C]()  
+|[Learning-C](https://github.com/leta199/Learning-C)  
 |[Main_f]()  
 |  ├──[]()  
 │  └──[]()   
