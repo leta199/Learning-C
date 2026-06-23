@@ -7,7 +7,7 @@ int main(void)
     float radius;
     
 // input values
-    printf("Please enter the radius of your circle (in cm)");
+    printf("Please enter the radius of your circle (in cm): ");
     scanf("%f", & radius);
 
 // calucation and display 
