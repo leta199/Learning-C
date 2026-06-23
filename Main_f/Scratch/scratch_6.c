@@ -15,4 +15,5 @@ float weight, height;
 // final calucation and display
     printf("Your BMI is: %.2f\n", weight/(height*height));
 
+return 0;
 }
