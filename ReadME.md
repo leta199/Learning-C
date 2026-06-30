@@ -8,6 +8,12 @@ This will be facilitated by the book "C programming: A modern approach" by K. N.
 We cover many different topics in the books I looked into. I first started with the book "Modern C" by Jens Gustedt and I went until the chapter on control flow.
 
 ## HOW IT'S MADE 
+Languages used: C (2017)    
+Environement: VSCode   
+
+[![Language: C](https://img.shields.io/badge/Language-C-00599C.svg?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Built with GCC](https://img.shields.io/badge/Compiler-GCC-FFCC00?style=for-the-badge&logo=gnu&logoColor=black)](https://gcc.gnu.org/)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 
 ## PROJECT STRUCTURE 
 |[Learning-C](https://github.com/leta199/Learning-C)  
