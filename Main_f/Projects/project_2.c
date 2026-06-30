@@ -25,7 +25,7 @@ printf("Column sums:\t%d\t%d\t%d\t%d\n", arg1 + arg5 + arg9 +arg13,
                                               arg2 + arg6 + arg10 + arg14,  
                                               arg3 + arg7 + arg11 + arg15,
                                               arg4 + arg8 + arg12 + arg16);
-printf("Diagonal sums:\t%d\t%d\n", arg1 + arg6 + arg11 +arg15, 
+printf("Diagonal sums:\t%d\t%d\n", arg1 + arg6 + arg11 +arg16, 
                                               arg4 + arg7 + arg10 + arg13);                                                                                           
 return 0;
 }
