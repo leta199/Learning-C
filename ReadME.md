@@ -5,7 +5,7 @@ Usually this is done through C or C++ so I am going to learn C. So exciting!!
 I see so many Youtubers using C and C++ to make amamzing things so I thought I would learn it too!!  
 
 This will be facilitated by the book "C programming: A modern approach" by K. N. King 
-We cover many different opics in the books I looked into. I first started with 
+We cover many different topics in the books I looked into. I first started with the book "Modern C" by Jens Gustedt and I went until the chapter on control flow.
 
 ## HOW IT'S MADE 
 
