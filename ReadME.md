@@ -10,6 +10,10 @@ This will be facilitated by the book "C programming: A modern approach" by K. N.
 Languages used: C (2017)    
 Environement: VSCode   
 
+[![Language: C](https://img.shields.io/badge/Language-C-00599C.svg?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Built with Clang](https://img.shields.io/badge/Compiler-Clang-E25D1C?style=for-the-badge&logo=llvm&logoColor=white)](https://clang.llvm.org/)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange)
+
 ## METHODS AND TECHNIQUES 
 We cover many different topics in the books I looked into. I first started with the book "Modern C" by Jens Gustedt and I followed the boko until the chapter on control flow.   
 I then switched to C programming: A modern approach.
@@ -19,14 +23,10 @@ This project is broken into two main parts:
 This folder consists of my main attempts at making fuly fledged C programs such as a basic fraction adder, program to find volume of a sphere etc.  
 As my C skills get better, the higher number projects will become more sophisticated until one day I am able to make high perfomnce libraries in C and C++.  
 
-- The Scratch folder [Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch). 
+- The Scratch folder [Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch).   
 This folder is used to contain scratchwork I do to understand  C concepts better. This will be random blurbs and cool things I learn and isnt meant to be very serious. 
 
 These folders are located in the Main folder and 
-
-[![Language: C](https://img.shields.io/badge/Language-C-00599C.svg?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Built with GCC](https://img.shields.io/badge/Compiler-GCC-FFCC00?style=for-the-badge&logo=gnu&logoColor=black)](https://gcc.gnu.org/)
-![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 
 ## PROJECT STRUCTURE 
 |[Learning-C](https://github.com/leta199/Learning-C)  
