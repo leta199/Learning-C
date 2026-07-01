@@ -15,7 +15,7 @@ Environement: VSCode
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 
 ## METHODS AND TECHNIQUES 
-We cover many different topics in the books I looked into. I first started with the book "Modern C" by Jens Gustedt and I followed the boko until the chapter on control flow.   
+We cover many different topics in the books I looked into. I first started with the book "Modern C" by Jens Gustedt and I followed the book until the chapter on control flow.   
 I then switched to C programming: A modern approach.
 
 This project is broken into two main parts:  
