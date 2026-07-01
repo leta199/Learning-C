@@ -23,7 +23,7 @@ This project is broken into two main parts:
 This folder consists of my main attempts at making fuly fledged C programs such as a basic fraction adder, program to find volume of a sphere etc.  
 As my C skills get better, the higher number projects will become more sophisticated until one day I am able to make high perfomnce libraries in C and C++.  
 
-- The Scratch folder [Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch).   
+- The Scratch folder - [Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch).   
 This folder is used to contain scratchwork I do to understand  C concepts better. This will be random blurbs and cool things I learn and isnt meant to be very serious. 
 
 ## PROJECT STRUCTURE 
