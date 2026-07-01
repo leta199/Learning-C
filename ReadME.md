@@ -5,11 +5,23 @@ Usually this is done through C or C++ so I am going to learn C. So exciting!!
 I see so many Youtubers using C and C++ to make amamzing things so I thought I would learn it too!!  
 
 This will be facilitated by the book "C programming: A modern approach" by K. N. King 
-We cover many different topics in the books I looked into. I first started with the book "Modern C" by Jens Gustedt and I went until the chapter on control flow.
 
 ## HOW IT'S MADE 
 Languages used: C (2017)    
 Environement: VSCode   
+
+## METHODS AND TECHNIQUES 
+We cover many different topics in the books I looked into. I first started with the book "Modern C" by Jens Gustedt and I followed the boko until the chapter on control flow.   
+I then switched to C programming: A modern approach.
+
+This project is broken into two main parts:  
+- The Project folder [Projects](https://github.com/leta199/Learning-C/tree/main/Main_f/Projects)   
+This folder consists of my main attempts at making fuly fledged C programs such as a basic fraction adder, program to find volume of a sphere etc.  
+As my C skills get better, the higher number projects will become more sophisticated until one day I am able to make high perfomnce libraries in C and C++.  
+
+- The Scratch folder [Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch). 
+
+These folders are located in the Main folder and 
 
 [![Language: C](https://img.shields.io/badge/Language-C-00599C.svg?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Built with GCC](https://img.shields.io/badge/Compiler-GCC-FFCC00?style=for-the-badge&logo=gnu&logoColor=black)](https://gcc.gnu.org/)
