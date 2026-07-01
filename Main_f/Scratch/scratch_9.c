@@ -5,14 +5,15 @@
 int main(void)
 {
 // declarations 
-    int numerator1, numerator2, denominator1, denominator2;
+    int numerator1, numerator2, denominator1, denominator2, new_denominator, new_numerator;
 
 // calculations 
     printf("Please enter what fractions you want to add:\n");
     scanf("%d /%d +%d /%d", &numerator1, &numerator2, &denominator1, &denominator2);
     
-    int new_denominator denominator1*denominator2;
-    
+    new_denominator = denominator1 * denominator2;
+    new_numerator = numerator1 * denominator2 + numerator2 * denominator1;
 
 return 0;
+
 }
