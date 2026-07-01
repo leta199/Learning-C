@@ -20,6 +20,7 @@ This folder consists of my main attempts at making fuly fledged C programs such 
 As my C skills get better, the higher number projects will become more sophisticated until one day I am able to make high perfomnce libraries in C and C++.  
 
 - The Scratch folder [Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch). 
+This folder is used to contain scratchwork I do to understand  
 
 These folders are located in the Main folder and 
 
