@@ -19,7 +19,7 @@ We cover many different topics in the books I looked into. I first started with 
 I then switched to C programming: A modern approach.
 
 This project is broken into two main parts:  
-- The Project folder [Projects](https://github.com/leta199/Learning-C/tree/main/Main_f/Projects)   
+- The Project folder - [Projects](https://github.com/leta199/Learning-C/tree/main/Main_f/Projects)   
 This folder consists of my main attempts at making fuly fledged C programs such as a basic fraction adder, program to find volume of a sphere etc.  
 As my C skills get better, the higher number projects will become more sophisticated until one day I am able to make high perfomnce libraries in C and C++.  
 
