@@ -26,8 +26,6 @@ As my C skills get better, the higher number projects will become more sophistic
 - The Scratch folder [Scratch](https://github.com/leta199/Learning-C/tree/main/Main_f/Scratch).   
 This folder is used to contain scratchwork I do to understand  C concepts better. This will be random blurbs and cool things I learn and isnt meant to be very serious. 
 
-These folders are located in the Main folder and 
-
 ## PROJECT STRUCTURE 
 |[Learning-C](https://github.com/leta199/Learning-C)  
 |[Main_f](https://github.com/leta199/Learning-C/tree/main/Main_f)  
