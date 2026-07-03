@@ -1,4 +1,4 @@
-// Operations in C
+// Operators in C
 
 #include <stdio.h>
 
