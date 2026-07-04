@@ -15,5 +15,13 @@ scanf("%d%d%d%d%d%d%d%d%d%d%d", digit1, digit2, digit3, digit4, digit5, digit6, 
 
 //Do required calculations 
 int firstsum = digit1 + digit3 + digit5 + digit7 + digit9 + digit11;
+int secondsum = digit2 + digit4 + digit6 + digit8 + digit10;
+int firstvalue = ((3 * firstsum) + secondsum ) - 1;
+int remainder = firstvalue % 10;
+int checkdigit = 9 - remainder;
 
+// Final print statement 
+printf("Cheeck digit: %d", checkdigit);
+
+return 0;
 }
