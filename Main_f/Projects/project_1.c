@@ -10,11 +10,11 @@ int main(void)
     float radius;
     
 // input values
-    printf("Please enter the radius of your circle (in cm): ");
-    scanf("%f", & radius);
+printf("Please enter the radius of your circle (in cm): ");
+scanf("%f", & radius);
 
 // calculation and display 
-    printf("Your circle is of volume: %.2f\n", (4.0f/3.0f)*PI*(radius*radius*radius));
+printf("Your circle is of volume: %.2f\n", (4.0f/3.0f)*PI*(radius*radius*radius));
 
-    return 0;
+return 0;
 }
