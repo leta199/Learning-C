@@ -9,7 +9,7 @@ int digit1, digit2, digit3, digit4, digit5, digit6, digit7,
     digit8, digit9, digit10, digit11;
 
 // Requesting necessary 10 digits 
-printf("Please etner your 11 digits: ");
+printf("Please enter your 11 digits: ");
 scanf("%d%d%d%d%d%d%d%d%d%d%d", &digit1, &digit2, &digit3, &digit4, &digit5, &digit6, &digit7,
           &digit8, &digit9, &digit10, &digit11);
 
@@ -21,7 +21,7 @@ int remainder = firstvalue % 10;
 int checkdigit = 9 - remainder;
 
 // Final print statement 
-printf("Cheeck digit: %d", checkdigit);
+printf("Check digit: %d", checkdigit);
 
 return 0;
 }
