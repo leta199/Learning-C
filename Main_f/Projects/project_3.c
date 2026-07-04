@@ -21,7 +21,7 @@ int remainder = firstvalue % 10;
 int checkdigit = 9 - remainder;
 
 // Final print statement 
-printf("Check digit: %d", checkdigit);
+printf("Check digit: %d\n", checkdigit);
 
 return 0;
 }
