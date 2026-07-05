@@ -13,7 +13,7 @@ printf("Please enter your 11 digits: ");
 scanf("%d%d%d%d%d%d%d%d%d%d%d", &digit1, &digit2, &digit3, &digit4, &digit5, &digit6, &digit7,
           &digit8, &digit9, &digit10, &digit11);
 
-//Do required calculations 
+//Required calculations 
 int firstsum = digit1 + digit3 + digit5 + digit7 + digit9 + digit11;
 int secondsum = digit2 + digit4 + digit6 + digit8 + digit10;
 int firstvalue = ((3 * firstsum) + secondsum ) - 1;
