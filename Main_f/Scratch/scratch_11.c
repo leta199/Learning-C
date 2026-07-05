@@ -10,9 +10,9 @@ printf("What float value are you interested in: ");
 scanf("%f", &a);
 
 // Determining value of user input 
-if (a < 0)
+if (a < 0) /* relational operator*/
     printf("The value of your float is < 0\n");
-else if (a == 0)
+else if (a == 0) /* equality operator*/
     printf("The value of your float is = 0\n");
 else 
     printf("The value of your float is > 0\n");
