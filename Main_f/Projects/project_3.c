@@ -6,7 +6,8 @@ int main(void)
 {
 // Declaring all variables required 
 int digit1, digit2, digit3, digit4, digit5, digit6, digit7,
-    digit8, digit9, digit10, digit11;
+    digit8, digit9, digit10, digit11, firstsum, secondsum,
+    firstvalue, remainder, checkdigit;
 
 // Requesting necessary 10 digits 
 printf("Please enter your 11 digits: ");
