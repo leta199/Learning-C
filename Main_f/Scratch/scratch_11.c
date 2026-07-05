@@ -4,6 +4,7 @@
 
 int main(void)
 {
+// Inputting value from user 
 float a;
 printf("What float value are you interested in: ");
 scanf("%f", &a);
