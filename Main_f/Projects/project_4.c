@@ -12,29 +12,30 @@
 int main(void) 
 {
 
-float taxable_income, total_tax;
+float taxable_income;
+float  total_tax = 0;
 printf("What is your total compensation in US$: ");
 scanf("%f", &taxable_income);
 
 if (taxable_income >= 626351){
     total_tax += (taxable_income - 626351)*TAXRATE_7;
 }
-if (taxable_income >= 250526 && taxable_income <= 626350) {
+else if (taxable_income >= 250526 && taxable_income <= 626350) {
     total_tax += (taxable_income - 250526) * TAXRATE_6;
 }
-if (taxable_income >= 197301 && taxable_income <= 250525) {
+else if (taxable_income >= 197301 && taxable_income <= 250525) {
     total_tax += (taxable_income - 197301) * TAXRATE_5;
 }
-if (taxable_income >= 103351 && taxable_income <= 197300) {
+else if (taxable_income >= 103351 && taxable_income <= 197300) {
     total_tax += (taxable_income - 103351) * TAXRATE_4;
 }
-if (taxable_income >= 48476 && taxable_income <= 103350) {
+else if (taxable_income >= 48476 && taxable_income <= 103350) {
     total_tax += (taxable_income - 48476) * TAXRATE_3;
 }
-if (taxable_income >= 11926 && taxable_income <= 48475) {
+else if (taxable_income >= 11926 && taxable_income <= 48475) {
     total_tax += (taxable_income - 11926) * TAXRATE_2;
 }
-if (taxable_income <= 11925) {
+else if (taxable_income <= 11925) {
     total_tax += (taxable_income - 11925) * TAXRATE_1;
 }
 
