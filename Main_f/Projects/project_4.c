@@ -1,7 +1,7 @@
 // Tax Calculator - Federal income tax rate USA
 
 #include <stdio.h>
-#define TAXRATE_1 0.1 /* to easily chnage tax rates in the future*/
+#define TAXRATE_1 0.1 /* to easily change tax rates in the future*/
 #define TAXRATE_2 0.12
 #define TAXRATE_3 0.22
 #define TAXRATE_4 0.24
@@ -12,7 +12,7 @@
 int main(void) 
 {
 
-float cash_income;
+float cash_income, total_tax;
 printf("What is your total compensation in US$: ");
 scanf("%f", & cash_income);
 
@@ -44,7 +44,6 @@ if (cash_income  > 626351)
 ;
 float tax_amount7 = (626351 - cash_income) * TAXRATE_7;
 
-float total_tax;
 
 printf("On a compensation of %.2f\nYour total tax is: %.2f\n", cash_income,
 tax_amount1 + tax_amount2 + tax_amount3 + tax_amount4 + tax_amount5 + tax_amount6 + tax_amount7);
