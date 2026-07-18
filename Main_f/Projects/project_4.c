@@ -14,19 +14,31 @@ int main(void)
 
 float taxable_income, total_tax;
 printf("What is your total compensation in US$: ");
-scanf("%f", & cash_income);
+scanf("%f", &taxable_income);
 
-if (taxable_income >= 626351);
+if (taxable_income >= 626351){
     total_tax += (taxable_income - 626351)*TAXRATE_7;
-if ( taxable_income >= 250526 && taxable_income <= 626350);
-    total_tax += (taxable_income 250526);
-if ()
+}
+if (taxable_income >= 250526 && taxable_income <= 626350) {
+    total_tax += (taxable_income - 250526) * TAXRATE_6;
+}
+if (taxable_income >= 197301 && taxable_income <= 250525) {
+    total_tax += (taxable_income - 197301) * TAXRATE_5;
+}
+if (taxable_income >= 103351 && taxable_income <= 197300) {
+    total_tax += (taxable_income - 103351) * TAXRATE_4;
+}
+if (taxable_income >= 48476 && taxable_income <= 103350) {
+    total_tax += (taxable_income - 48476) * TAXRATE_3;
+}
+if (taxable_income >= 11926 && taxable_income <= 48475) {
+    total_tax += (taxable_income - 11926) * TAXRATE_2;
+}
+if (taxable_income <= 11925) {
+    total_tax += (taxable_income - 11925) * TAXRATE_1;
+}
 
-
-
-
-printf("On a compensation of %.2f\nYour total tax is: %.2f\n", cash_income,
-tax_amount1 + tax_amount2 + tax_amount3 + tax_amount4 + tax_amount5 + tax_amount6 + tax_amount7);
+printf("On a compensation of %.2f\nYour total tax is: %.2f\n", total_tax);
 
 return 0;
 }
