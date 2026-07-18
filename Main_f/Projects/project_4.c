@@ -38,7 +38,7 @@ if (taxable_income <= 11925) {
     total_tax += (taxable_income - 11925) * TAXRATE_1;
 }
 
-printf("On a compensation of %.2f\nYour total tax is: %.2f\n", total_tax);
+printf("On a compensation of %.2f\nYour total tax is: %.2f\n", taxable_income, total_tax);
 
 return 0;
 }
