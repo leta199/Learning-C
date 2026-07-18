@@ -18,25 +18,25 @@ printf("What is your total compensation in US$: ");
 scanf("%f", &taxable_income);
 
 if (taxable_income >= 626351){
-    total_tax += (taxable_income - 626351)*TAXRATE_7 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3 + 93949*TAXRATE_4 + 53224 * TAXRATE_5 + 375824* TAXRATE_6;
+    total_tax = (taxable_income - 626351)*TAXRATE_7 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3 + 93949*TAXRATE_4 + 53224 * TAXRATE_5 + 375824* TAXRATE_6;
 }
 else if (taxable_income >= 250526 && taxable_income <= 626350) {
-    total_tax += (taxable_income - 250526) * TAXRATE_6 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3 + 93949*TAXRATE_4 + 53224 * TAXRATE_5;
+    total_tax = (taxable_income - 250526) * TAXRATE_6 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3 + 93949*TAXRATE_4 + 53224 * TAXRATE_5;
 }
 else if (taxable_income >= 197301 && taxable_income <= 250525) {
-    total_tax += (taxable_income - 197301) * TAXRATE_5 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3 + 93949*TAXRATE_4;
+    total_tax = (taxable_income - 197301) * TAXRATE_5 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3 + 93949*TAXRATE_4;
 }
 else if (taxable_income >= 103351 && taxable_income <= 197300) {
-    total_tax += (taxable_income - 103351) * TAXRATE_4 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3;
+    total_tax = (taxable_income - 103351) * TAXRATE_4 + 11925*TAXRATE_1 + 36549*TAXRATE_2 + 54874*TAXRATE_3;
 }
 else if (taxable_income >= 48476 && taxable_income <= 103350) {
-    total_tax += (taxable_income - 48476) * TAXRATE_3 + 11925*TAXRATE_1 + 36549*TAXRATE_2;
+    total_tax = (taxable_income - 48476) * TAXRATE_3 + 11925*TAXRATE_1 + 36549*TAXRATE_2;
 }
 else if (taxable_income >= 11926 && taxable_income <= 48475) {
-    total_tax += (taxable_income - 11926) * TAXRATE_2 + 11925*TAXRATE_1;
+    total_tax = (taxable_income - 11926) * TAXRATE_2 + 11925*TAXRATE_1;
 }
 else if (taxable_income <= 11925) {
-    total_tax += (taxable_income - 11925) * TAXRATE_1;
+    total_tax = (taxable_income - 11925) * TAXRATE_1;
 }
 
 printf("On a compensation of %.2f\nYour total tax is: %.2f\n", taxable_income, total_tax);
