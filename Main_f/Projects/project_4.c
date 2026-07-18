@@ -12,10 +12,15 @@
 int main(void) 
 {
 
-float cash_income, total_tax;
+float taxable_income, total_tax;
 printf("What is your total compensation in US$: ");
 scanf("%f", & cash_income);
 
+if (taxable_income >= 626351);
+    total_tax += (taxable_income - 626351)*TAXRATE_7;
+if ( taxable_income >= 250526 && taxable_income <= 626350);
+    total_tax += (taxable_income 250526);
+if ()
 
 
 
