@@ -16,33 +16,8 @@ float cash_income, total_tax;
 printf("What is your total compensation in US$: ");
 scanf("%f", & cash_income);
 
-if (cash_income >= 11925)
-; 
-float tax_amount1 = 11925 * TAXRATE_1;
 
-if (cash_income >= 48475)
-;
-float tax_amount2 = (48475 - 11925) * TAXRATE_2;
 
-if (cash_income  >= 103350)
-;
-float tax_amount3 = (103350 - 48475) * TAXRATE_3;
-
-if (cash_income  >= 197300)
-;
-float tax_amount4 = (197300 - 103350) * TAXRATE_4;
-
-if (cash_income  >= 250525)
-;
-float tax_amount5 = (250525 - 197300) * TAXRATE_5;
-
-if (cash_income  >= 626350)
-;
-float tax_amount6 = (626350 - 250525) * TAXRATE_6;
-
-if (cash_income  > 626351)
-;
-float tax_amount7 = (626351 - cash_income) * TAXRATE_7;
 
 
 printf("On a compensation of %.2f\nYour total tax is: %.2f\n", cash_income,
