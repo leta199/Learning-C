@@ -8,7 +8,7 @@ int i = 1;
 int j = 0;
 int n;
 
-printf("What value of n would you like?:  ");
+printf("What value of n would you like?: \n");
 scanf("%d", &n);
 
 while (i < n) 
@@ -17,7 +17,7 @@ i *= 2;
 ++j;
 }
 
-printf("Two must be raised to %d to be greater than or equal to %d", j, n);
+printf("Two must be raised to %d to be greater than or equal to %d\n", j, n);
 
 return 0;
 
