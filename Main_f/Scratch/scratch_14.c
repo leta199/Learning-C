@@ -13,5 +13,8 @@ printf("Value of pre-decrement i is: %d\t", --i);
 printf("Value of post-decrement j is: %d\n", j--);
 }
 
+printf("Final value of i is: %d\t", --i);
+printf("Final value of j is: %d\n", j--);
+
 return 0;
 }
