@@ -9,8 +9,8 @@ int j = 10;
 int m = 2;
 
 while (i > m && j > m){
-i = --i;
-j = j--;
+--i;
+j--;
 printf("Value of pre-decrement i is: %d\t", i);
 printf("Value of post-decrement j is: %d\n", j);
 }
