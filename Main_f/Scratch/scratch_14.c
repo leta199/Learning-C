@@ -8,7 +8,7 @@ int i = 10;
 int j = 10;
 int m = 2;
 
-while (i > m){
+while (i > m && j > m){
 i = --i;
 j = j--;
 printf("Value of pre-decrement i is: %d\t", i);
