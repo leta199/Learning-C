@@ -8,7 +8,7 @@ int i = 1;
 int j = 0;
 int n;
 
-printf("What value of n would you like?: \n");
+printf("What value of n would you like?: ");
 scanf("%d", &n);
 
 while (i < n) 
