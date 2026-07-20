@@ -7,7 +7,7 @@ int m = 2;
 
 while (i > m){
 printf("Value of pre-increment %d", ++i);
-printf("Value of pre-increment %d", ++i);
+printf("Value of pre-increment %d", i++);
 }
 
 return 0;
