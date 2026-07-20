@@ -1,5 +1,7 @@
 // Just checking how pre and psot fix operators work
 
+#include <stdio.h>
+
 int main(void) 
 {
 int i = 10;
