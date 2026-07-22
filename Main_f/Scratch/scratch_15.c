@@ -10,9 +10,11 @@ printf("Enter a non negative integer: ");
 scanf("%d", &i);
 
 do {
-    
-
+    i /= 10;
+    ++digits;
 }
+while (i > 0);
 
+return 0;
 
 }
