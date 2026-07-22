@@ -15,6 +15,8 @@ do {
 }
 while (i > 0);
 
+printf("The number of digits in your integer is %d\n", digits);
+
 return 0;
 
 }
