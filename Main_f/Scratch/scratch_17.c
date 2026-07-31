@@ -2,9 +2,11 @@
 
 #include <stdio.h>
 int main(void){
-    
-int n;
-printf("Enter you value: \n")
+
+float n;
+printf("Enter you value: \n");
+scanf("%f", &n);
+
 
 
 
