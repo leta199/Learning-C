@@ -3,10 +3,10 @@
 #include <stdio.h>
 int main(void){
 
-float n;
+int n;
 int i;
 int j = 0;
-printf("Enter you value: \n");
+printf("Enter you integer value: \n");
 scanf("%f", &n);
 
 for (i = 9; i <= j; i--){
