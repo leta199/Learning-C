@@ -4,8 +4,10 @@
 int main(void){
 
 float n;
+int i;
 printf("Enter you value: \n");
 scanf("%f", &n);
+
 
 
 
