@@ -14,6 +14,9 @@ for (i = 9; i <= j; i--){
     break;
     printf("%f is divisble by %d\n", n, i);
    }
-   if (n % i != 0)
+   else;
+   printf("%f is not divisible by 1 - 9", n);
 }
+
+return 0;
 }
