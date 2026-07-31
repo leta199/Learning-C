@@ -2,7 +2,10 @@
 
 #include <stdio.h>
 int main(void){
-    int n 
+    
+int n;
+printf("Enter you value: \n")
+
 
 
 }
