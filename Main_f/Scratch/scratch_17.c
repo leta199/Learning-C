@@ -17,4 +17,5 @@ for (; i > j; i--)
    printf("%d is only divisible by 1\n", n);
    
 return 0;
+
 }
