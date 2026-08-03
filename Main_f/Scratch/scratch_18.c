@@ -12,7 +12,7 @@ while (n < 10){
     if (i == 0)
     continue;
     sum += i
-    n++
+    n++;
 }
 
 printf("The sum is %d\n", sum);
