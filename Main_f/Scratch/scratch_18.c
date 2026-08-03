@@ -11,11 +11,12 @@ while (n < 10){
     scanf("%d", &i);
     if (i == 0)
     continue;
-    sum += i;
-    n++;
+sum += i;
+n++;
 }
 
 printf("The sum is %d\n", sum);
+
 
 return 0;
 
