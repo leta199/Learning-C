@@ -4,12 +4,12 @@
 
 int main(void) 
 {
-int a, sum;
+int n, sum, i;
 printf("Please enter 10 non zero digits ending in zero: ");
 
-while (n < 10 )
+while (n < 10){
 scanf("%d", &a);
 
 
-
+}
 }
