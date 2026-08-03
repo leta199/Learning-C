@@ -11,7 +11,7 @@ while (n < 10){
     scanf("%d", &i);
     if (i == 0)
     continue;
-    sum += i
+    sum += i;
     n++;
 }
 
