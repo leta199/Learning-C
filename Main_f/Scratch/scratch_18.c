@@ -13,7 +13,7 @@ while (n < 10){
     sum += i;
     n++;
     if (i == 0)
-    continue;
+        continue;
 
 }
 
