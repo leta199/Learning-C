@@ -14,7 +14,6 @@ while (n < 10){
     n++;
     if (i == 0)
         continue;
-
 }
 
 printf("The sum is %d\n", sum);
