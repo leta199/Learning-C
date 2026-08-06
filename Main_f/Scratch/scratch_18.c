@@ -5,7 +5,8 @@
 int main(void) 
 {
 
-int n, sum, i = 0;
+int n, sum = 0;
+int i;
 printf("Please enter 10 non zero digits ending in zero: ");
 
 while (n < 10){
