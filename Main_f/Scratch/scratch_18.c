@@ -12,7 +12,7 @@ while (n < 10){
     scanf("%d", &i);
     sum += i;
     n++;
-    if (i == 0)
+        if (i == 0)
         continue;
 }
 
